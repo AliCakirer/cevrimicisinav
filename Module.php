@@ -8,7 +8,7 @@ use yii\filters\auth\HttpBearerAuth;
 use yii\filters\auth\QueryParamAuth;
 use yii\web\HttpException;
 
-class Module extends \kouosl\base\Module
+class Module extends \kouosl\cevrimicisinav\Module
 {
     public $controllerNamespace = '';
 
